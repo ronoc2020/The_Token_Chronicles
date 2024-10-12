@@ -116,7 +116,6 @@ Contact
 
 For inquiries, feedback, or suggestions, feel free to reach out:
 
-    Name: RO-NOC
-    GitHub: ronoc2020
+ email: [ronoc2020@gmail.com](mailto:ronoc2020@gmail.com)
 
 Thank you for playing The Token Chronicles! We hope you enjoy your adventure and find the game both engaging and exciting!
